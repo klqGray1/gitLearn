@@ -1,2 +1,6 @@
 # gitLearn
-change to dev
+This is my first git push! ^_^
+
+
+
+
